@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Comments" max_length="40" name="x_39899_github_int_comments" type="collection">
+        <element display="true" label="Comment text" max_length="40" name="comment_text" type="string"/>
+    </element>
+</database>
