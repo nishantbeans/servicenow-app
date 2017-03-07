@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <messages/>
+        <name>Testing</name>
+        <order/>
+        <script><![CDATA[console.log("Form loaded");]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-07 08:01:31</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f86ab46adb113200f8975740cf9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GitHub Integration" source="x_39899_github_int">1e443866db113200f8975740cf961955</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GitHub Integration">1e443866db113200f8975740cf961955</sys_scope>
+        <sys_update_name>sys_script_client_f86ab46adb113200f8975740cf9619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-07 08:01:31</sys_updated_on>
+        <table>x_39899_github_int_post</table>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
